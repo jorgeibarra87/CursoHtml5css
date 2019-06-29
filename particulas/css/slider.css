@@ -1,0 +1,6 @@
+#particles-js{
+    background: url(../img/galaxy.jpg);
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+}
