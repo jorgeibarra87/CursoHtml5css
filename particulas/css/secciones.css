@@ -87,3 +87,11 @@ p{
     color: #fff;
     border-bottom: 2px solid #fff;
 }
+.columnasx3 i{
+    float: left;
+    padding-right: 20px;
+    color: #444;
+}
+.columnasx3 h4{
+    padding-bottom: 20px;
+}
