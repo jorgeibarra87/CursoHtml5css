@@ -1,5 +1,5 @@
 #particles-js{
-    background: url(../img/galaxy.jpg);
+    background: url(../img/fondo.jpg);
     background-position: center;
     background-attachment: contain;
     background-size: cover;
@@ -20,7 +20,7 @@
 .letras-slider h1{
     color: #fff;
     font-family: rale;
-    font-size: 70px;
+    font-size: 50px;
 }
 .letras-slider p{
     color: #fff;
