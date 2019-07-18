@@ -6,7 +6,7 @@
 }
 #facebook a{
     background: #3b5998;
-    padding: 10px 5px;
+    padding: 10px 20px;
     color: #fff;
     text-decoration: none;
     width: 55px;
@@ -14,11 +14,11 @@
 }
 #facebook a:hover{
     background: #000;
-    padding: 10px 10px;
+    padding: 10px 40px;
 }
 #youtube a{
     background: #bb0000;
-    padding: 10px 5px;
+    padding: 10px 20px;
     color: #fff;
     text-decoration: none;
     width: 55px;
@@ -26,11 +26,11 @@
 }
 #youtube a:hover{
     background: #000;
-    padding: 10px 10px;
+    padding: 10px 40px;
 }
 #twitter a{
     background: #55acee;
-    padding: 10px 5px;
+    padding: 10px 20px;
     color: #fff;
     text-decoration: none;
     width: 55px;
@@ -38,11 +38,11 @@
 }
 #twitter a:hover{
     background: #000;
-    padding: 10px 10px;
+    padding: 10px 40px;
 }
 #instagram a{
     background: #c98c1a;
-    padding: 10px 5px;
+    padding: 10px 20px;
     color: #fff;
     text-decoration: none;
     width: 55px;
@@ -50,5 +50,5 @@
 }
 #instagram a:hover{
     background: #000;
-    padding: 10px 10px;
+    padding: 10px 4 0px;
 }
